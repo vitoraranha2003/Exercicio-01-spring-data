@@ -5,3 +5,8 @@ Usar como base configuração feito em sala.
 Colocar projeto no git.
 Anexar na resposta o link do repositório do git.
 Exercício pode ser feito em grupos de 5 pessoas.
+
+Grupo:
+
+https://github.com/vitoraranha2003
+https://github.com/lucaskgf
