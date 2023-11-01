@@ -8,4 +8,4 @@ Exercício pode ser feito em grupos de 5 pessoas.
 
 Grupo:
 
-https://github.com/vitoraranha2003 , https://github.com/lucaskgf , https://github.com/APLGABRIEL , https://github.com/Everaldorlj , https://github.com/nathanserrao , https://github.com/ogabrielpontes
+https://github.com/vitoraranha2003 (Vítor Aranha) , https://github.com/lucaskgf (Lucas Gusmão) , https://github.com/APLGABRIEL (Gabriel Angelo), https://github.com/Everaldorlj (Everaldo), https://github.com/nathanserrao (Nathan Serrão), https://github.com/ogabrielpontes (Gabriel Pontes)
